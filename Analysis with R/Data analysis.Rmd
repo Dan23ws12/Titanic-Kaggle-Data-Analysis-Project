@@ -1,0 +1,22 @@
+---
+title: "Titanic data set cleaning"
+author: "Daniel Oyeleye"
+date: "2023-10-28"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The data for this project needed cleaning for the analysis to be useful, the
+changes made were detailed in the "Data Cleaning.docx" file and train2.xlsx is the
+result of those changes
+```{r }
+
+```
+
+
+```{r }
+
+```
